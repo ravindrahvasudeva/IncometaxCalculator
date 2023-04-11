@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity{
             }
         });
     }
-    public void calculate()
+    public void calculate() //this funtion calculate tax based on individual income 
     {
         long Total = 0;
         long Tax=0;
